@@ -50,6 +50,24 @@ The objective of this project is to obtain the results of a recent local congres
 
 ![Election Results Sorted](Resources/election_results_sorted.png)
 
+Code used to sort counties:
+
+```Python
+
+    ### Plus order counties dictionary:
+    sorted_county_votes = sorted(county_votes.items(),key=lambda x:x[1], reverse=True)
+
+```
+
+Code used to sort candidates:
+
+```Python
+
+    ### Plus order counties dictionary:
+    sorted_candidate_votes = sorted(candidate_votes.items(),key=lambda x:x[1], reverse=True)
+
+```
+
 - This script could be used, with some modifications to calculate the results of many elections:
   - The loops, lists, and dictionaries to calculate candidate and counties results could be used to obtain the total votes by Congressional District.
   - The results could be recorded in one file or generate a file by Congressional District
