@@ -9,7 +9,7 @@ Total Votes: 369,711
 -------------------------
 
 
-County Votes:
+County Votes (Sorted):
 
 Denver: 82.8% (306,055)
 Jefferson: 10.5% (38,855)
@@ -22,5 +22,14 @@ Percentage: 82.8%
 -------------------------
 
 
-Candidate Results:
+Candidate Results (Sorted):
 
+Diana DeGette: 73.8% (272,892)
+Charles Casper Stockham: 23.0% (85,213)
+Raymon Anthony Doane: 3.1% (11,606)
+
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
