@@ -1,5 +1,7 @@
 # Election analysis
 
+- My new comment
+
 ## Project overview
 
 The objective of this project is to obtain the results of a recent local congressional election for the Colorado Board of Elections, including:
