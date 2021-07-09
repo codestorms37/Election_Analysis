@@ -1,6 +1,7 @@
 # Election analysis
 
 - My new comment
+- Another comment
 
 ## Project overview
 
